@@ -1,6 +1,6 @@
 # ELEC2645 Unit 1.2 Activity 5 - Enum and Switch
 
-In this exercise we will look at two `C` concepts that are often found together `enum` and `
+In this exercise we will look at two `C` concepts that are often found together `enum` and `switch`
 
 - `enum`: An enum (enumeration) is a user-defined type in `C` that consists of a set of named integer constants. It helps make code more readable by giving meaningful names to values. This avoids us having to remember "`1` means `x` and `2` means `y`" etc. 
 
